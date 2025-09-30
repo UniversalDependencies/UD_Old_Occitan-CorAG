@@ -1,5 +1,5 @@
 # Summary
-UD_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval legal texts in Gascon, a variety of Old Occitan. The texts were digitized from printed editions and subsequently manually annotated in Universal Dependencies (PoS and functions).
+UD_Old_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval legal texts in Gascon, a variety of Old Occitan. The texts were digitized from printed editions and subsequently manually annotated in Universal Dependencies (PoS and functions).
 
 # Introduction
 
@@ -29,6 +29,8 @@ The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior 
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Repository renamed from UD_Occitan-CorAG to UD_Old_Occitan-CorAG.
 * 2025-05-15 v2.16
   * Initial release in Universal Dependencies.
 
