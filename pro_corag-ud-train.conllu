@@ -17085,7 +17085,7 @@
 68	carte	_	NOUN	_	_	69	nsubj	_	_
 69	ditz	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	59	advcl	_	SpaceAfter=No
 70	:	_	PUNCT	_	_	69	punct	_	_
-71	«	_	PUNCT	_	_	75	punct	_	wordform=Â«
+71	«	_	PUNCT	_	_	75	punct	_	_
 72	Et	_	CCONJ	_	_	75	cc	_	_
 73	a	_	ADP	_	_	75	case	_	_
 74	tote	_	DET	_	_	75	det	_	_
@@ -17095,7 +17095,7 @@
 78	aqueste	_	DET	_	_	79	det	_	_
 79	carte	_	NOUN	_	_	80	obl	_	_
 80	domandara	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	75	acl:relcl	_	SpaceAfter=No
-81	»	_	PUNCT	_	_	75	punct	_	SpaceAfter=No|wordform=Â»
+81	»	_	PUNCT	_	_	75	punct	_	SpaceAfter=No
 82	,	_	PUNCT	_	_	69	punct	_	_
 83	et	_	CCONJ	_	_	85	cc	_	_
 84	no	_	ADV	_	_	85	advmod	_	_
@@ -18414,14 +18414,14 @@
 86	la	_	DET	_	_	87	det	_	_
 87	viele	_	NOUN	_	_	84	nmod	_	SpaceAfter=No
 88	:	_	PUNCT	_	_	84	punct	_	_
-89	«	_	PUNCT	_	_	95	punct	_	wordform=Â«
+89	«	_	PUNCT	_	_	95	punct	_	_
 90	Qui	_	PRON	_	PronType=Rel	92	nsubj	_	_
 91	tau	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	92	obj	_	_
 92	fara	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	95	csubj	_	SpaceAfter=No
 93	,	_	PUNCT	_	_	92	punct	_	_
 94	tau	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	95	obj	_	_
 95	prenera	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	84	acl	_	SpaceAfter=No
-96	»	_	PUNCT	_	_	95	punct	_	SpaceAfter=No|wordform=Â»
+96	»	_	PUNCT	_	_	95	punct	_	SpaceAfter=No
 97	;	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1460_Bearn_1_1_121_1_2
@@ -21515,14 +21515,14 @@
 51	,	_	PUNCT	_	_	45	punct	_	_
 52	disentz	_	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	45	acl	_	SpaceAfter=No
 53	:	_	PUNCT	_	_	52	punct	_	_
-54	«	_	PUNCT	_	_	60	punct	_	wordform=Â«
+54	«	_	PUNCT	_	_	60	punct	_	_
 55	Per	_	ADP	_	_	57	case	_	_
 56	aquestz	_	DET	_	_	57	det	_	_
 57	santz	_	NOUN	_	_	60	obl	_	SpaceAfter=No
 58	,	_	PUNCT	_	_	57	punct	_	_
 59	vertat	_	NOUN	_	_	60	obj	_	_
 60	ditz	_	VERB	_	Number=Plur|Person=2|VerbForm=Fin	52	ccomp	_	SpaceAfter=No
-61	»	_	PUNCT	_	_	60	punct	_	SpaceAfter=No|wordform=Â»
+61	»	_	PUNCT	_	_	60	punct	_	SpaceAfter=No
 62	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1460_Bearn_1_1_143_1_2
@@ -24288,14 +24288,14 @@
 29	seguira	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	25	acl:relcl	_	_
 30	disen	_	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	29	advcl	_	SpaceAfter=No
 31	:	_	PUNCT	_	_	30	punct	_	_
-32	«	_	PUNCT	_	_	38	punct	_	wordform=Â«
+32	«	_	PUNCT	_	_	38	punct	_	_
 33	Per	_	ADP	_	_	35	case	_	_
 34	aques	_	DET	_	_	35	det	_	_
 35	santz	_	NOUN	_	_	38	obl	_	SpaceAfter=No
 36	,	_	PUNCT	_	_	35	punct	_	_
 37	vertat	_	NOUN	_	_	38	obj	_	_
 38	ditz	_	VERB	_	Number=Plur|Person=2|VerbForm=Fin	30	ccomp	_	SpaceAfter=No
-39	»	_	PUNCT	_	_	38	punct	_	SpaceAfter=No|wordform=Â»
+39	»	_	PUNCT	_	_	38	punct	_	SpaceAfter=No
 40	;	_	PUNCT	_	_	17	punct	_	_
 
 # sent_id = 1460_Bearn_1_1_172_1_3
@@ -28371,7 +28371,7 @@
 29	un	_	DET	_	_	30	det	_	_
 30	seguidor	_	NOUN	_	_	27	obl	_	SpaceAfter=No
 31	:	_	PUNCT	_	_	27	punct	_	_
-32	«	_	PUNCT	_	_	38	punct	_	wordform=Â«
+32	«	_	PUNCT	_	_	38	punct	_	_
 33	Per	_	ADP	_	_	35	case	_	_
 34	aques	_	DET	_	_	35	det	_	_
 35	santz	_	NOUN	_	_	38	obl	_	SpaceAfter=No
@@ -28382,7 +28382,7 @@
 40	jo	_	PRON	_	Number=Sing|Person=1|PronType=Prs	42	nsubj	_	_
 41	ac	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	42	obj	_	_
 42	bi	_	VERB	_	Number=Sing|Person=1|VerbForm=Fin	38	ccomp	_	SpaceAfter=No
-43	»	_	PUNCT	_	_	38	punct	_	SpaceAfter=No|wordform=Â»
+43	»	_	PUNCT	_	_	38	punct	_	SpaceAfter=No
 44	,	_	PUNCT	_	_	26	punct	_	_
 45	lo	_	DET	_	_	46	det	_	_
 46	sosmes	_	NOUN	_	_	48	nsubj	_	_
@@ -30215,7 +30215,7 @@
 6	per	_	ADP	_	_	7	case	_	_
 7	apres	_	ADV	_	_	5	advmod	_	SpaceAfter=No
 8	:	_	PUNCT	_	_	5	punct	_	_
-9	«	_	PUNCT	_	_	23	punct	_	wordform=Â«
+9	«	_	PUNCT	_	_	23	punct	_	_
 10	Per	_	ADP	_	_	12	case	_	_
 11	aques	_	DET	_	_	12	det	_	_
 12	santz	_	NOUN	_	_	23	obl	_	SpaceAfter=No
@@ -30239,7 +30239,7 @@
 29	tantes	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Ind	26	conj	_	_
 30	d'	_	ADP	_	_	31	case	_	SpaceAfter=No
 31	aqueres	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Dem	29	nmod	_	SpaceAfter=No
-32	»	_	PUNCT	_	_	23	punct	_	SpaceAfter=No|wordform=Â»
+32	»	_	PUNCT	_	_	23	punct	_	SpaceAfter=No
 33	;	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1460_Bearn_1_1_239_1_3
@@ -30251,14 +30251,14 @@
 4	que	_	SCONJ	_	_	5	mark	_	_
 5	jurin	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	:	_	PUNCT	_	_	5	punct	_	_
-7	«	_	PUNCT	_	_	13	punct	_	wordform=Â«
+7	«	_	PUNCT	_	_	13	punct	_	_
 8	Per	_	ADP	_	_	10	case	_	_
 9	aques	_	DET	_	_	10	det	_	_
 10	santz	_	NOUN	_	_	13	obl	_	SpaceAfter=No
 11	,	_	PUNCT	_	_	10	punct	_	_
 12	ver	_	NOUN	_	_	13	obj	_	_
 13	ditz	_	VERB	_	Number=Plur|Person=2|VerbForm=Fin	5	ccomp	_	SpaceAfter=No
-14	»	_	PUNCT	_	_	13	punct	_	SpaceAfter=No|wordform=Â»
+14	»	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
 15	;	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1460_Bearn_1_1_239_1_4
