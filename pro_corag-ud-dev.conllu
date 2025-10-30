@@ -1,4 +1,4 @@
-# sent_id = 1214-1342_Deux_1_1_7_115_2
+# sent_id = DELETE4
 # len = 24
 # text = en la parropia de Mayrinhac tenen Amaneu de Noalhan et B. d'Ornon per las lurs molhers X homes del seynhor Rey,
 1	en	_	ADP	_	_	3	case	_	_
@@ -847,7 +847,7 @@
 7	dimartz	_	NOUN	_	_	5	nmod	_	_
 8	davant	_	ADP	_	_	10	case	_	_
 9	la	_	DET	_	_	10	det	_	_
-10	festa	_	NOUN	_	_	5	obl	_	_
+10	festa	_	NOUN	_	_	5	nmod	_	_
 11	de	_	ADP	_	_	12	case	_	_
 12	Sent-Luc	_	PROPN	_	_	10	nmod	_	_
 13	evangelista	_	NOUN	_	_	12	appos	_	SpaceAfter=No
