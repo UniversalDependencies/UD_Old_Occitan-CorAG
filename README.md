@@ -19,9 +19,9 @@ In October 2025, CorAG corpus contains six medieval texts:
 Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_, 101-130.
 Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Éditions du Centre National de la Recherche Scientifique.
 
-Electronic editions of _Coutume de Banières_ (1251 and 1260), Charte des Boucheries d'Orthez (1270) and Charte d'Herrère were generously shared with us by Professor Martin Glessgen (University of Zurich). 
+Electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with us by Professor Martin Glessgen (University of Zurich). 
 
-# Train/Dev/Test breakdown
+**Train/Dev/Test split**
 
 | Set               | Sentences| Tokens    |
 | :---------------- | :------: | ----:     |
@@ -30,13 +30,13 @@ Electronic editions of _Coutume de Banières_ (1251 and 1260), Charte des Bouche
 | Test              |   285    |   10,292  |
 | **Total**         | **1,293**| **46,757**|
 
-Please note that CorAG treebank is still under development. A campain of revision and morphological annotation are undeway and new material is being added to the collection. The structure of the treebank is therefore likely to change is subsequent releases. Please do not hesitate to contact us is you have any questions, suggestions or comments.
+Please note that CorAG treebank is still under development. A campain of revision and morphological annotation is underway and new material is being added to the collection. The structure of the treebank is therefore likely to change in subsequent releases. Please do not hesitate to contact us if you have any questions, suggestions or comments.
 
 # Annotation
 
-The texts were digitized, segmented and subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel)) parsers using bootstrapping methodology (Peng et al 2022) on [ArboratorGrew](https://arborator.grew.fr/#/) software.
+The texts were digitized, segmented and subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel)) parsers using bootstrapping methodology ([Peng et al 2022](https://hal.science/hal-03846834/document)) on [ArboratorGrew](https://arborator.grew.fr/#/) software.
 
-The texts are annotated in PoS and syntactic functions (Universal Dependencies), following, wherever possible, the guidelines for Modern Occitan (Miletić, Aleksandra, Bras, Myriam, Esher, Louise, Sibille, Jean & Vergez-Couret, Marianne, 2020. [Guide d’annotation syntaxique de Linguatec, v1.0.0](https://hal.science/hal-04925754v1).
+The texts are annotated in PoS and syntactic functions (Universal Dependencies), following, wherever possible, the guidelines for Modern Occitan ([Miletić, Aleksandra, Bras, Myriam, Esher, Louise, Sibille, Jean & Vergez-Couret, Marianne, 2020](https://hal.science/hal-04925754v1)).
 
 In addition, in this release of the corpus, verbs and auxiliaries are annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Congujated forms are annotated in Person and Number.
 
@@ -49,7 +49,7 @@ The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior 
 
 Manual annotation was performed by Barbara Francioni and Natasha Romanova. Technical support by Rayan Ziane and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by Natasha Romanova.
 
-We thank Professor Martin Glessgen and his team at the University of Zurich (authors of the online resource [Documents linguistiques galloromans](https://www.rose.uzh.ch/docling/) for provinding us with their editions of the thirteenth-century texts included in the corpus.
+We thank Professor Martin Glessgen and his team at the University of Zurich (authors of the online resource [Documents linguistiques galloromans](https://gallrom.linguistik.uzh.ch/#/) for provinding us with their editions of the thirteenth-century texts included in the corpus.
 
 We thank the members of the Modern Occitan [Tolosa Treebank](https://github.com/UniversalDependencies/UD_Occitan-TTB) for their help and advice in the early stages of the annotation process.
 
