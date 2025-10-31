@@ -12,8 +12,8 @@ In October 2025, CorAG corpus contains six medieval texts:
 | Coutume de Banières                          | 1260      |                         | 33       | 1,699     |
 | Charte des Boucheries d’Orthez               | 1270      |                         | 34       | 1,274     |
 | Charte d’Herrère                             | 1278      |                         | 53       | 1,835     |
-| Les Fors Anciens de Béarn                    | 1560      | Ourliac & Gilles 1990   | 752      | 26,725    |
-| **Total**                                    |           |                         | **1,293**| **46,757**|
+| Les Fors Anciens de Béarn                    | 1560      | Ourliac & Gilles 1990   | 750      | 26,795    |
+| **Total**                                    |           |                         | **1,291**| **46,680**|
 
 **Editions:**
 Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_, 101-130.
@@ -25,10 +25,10 @@ Electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Bouch
 
 | Set               | Sentences| Tokens    |
 | :---------------- | :------: | ----:     |
-| Train             |   906    |   32,869  |
-| Dev               |   102    |   3,596   |
-| Test              |   285    |   10,292  |
-| **Total**         | **1,293**| **46,757**|
+| Train             |   912    |   32,606  |
+| Dev               |   98     |   3,713   |
+| Test              |   281    |   10,361  |
+| **Total**         | **1,291**| **46,680**|
 
 Please note that CorAG treebank is still under development. A campain of revision and morphological annotation is underway and new material is being added to the collection. The structure of the treebank is therefore likely to change in subsequent releases. Please do not hesitate to contact us if you have any questions, suggestions or comments.
 
