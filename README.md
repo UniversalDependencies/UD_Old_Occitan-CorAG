@@ -42,7 +42,7 @@ In addition, in this release of the corpus, verbs and auxiliaries are annotated 
 
 Participles without dependents are annotated as adjectives but are also provided verbal morphological features.  Participles (whether tagged as VERB or ADJ) are annotated in Tense (Past, Pres or Fut), Gender (Masc or Fem) and Number (Plur or Sing).
 
-Pronouns are annotated in type (PronType: Dem for demonstrative, Ind for indefinite, Prs for personal and Rel for Relative). Reflexive and possessive pronouns are also tagged (Reflexive=Yes and Poss=Yes). 
+Pronouns are annotated in type (PronType: Dem for demonstrative, Ind for indefinite, Prs for personal and Rel for relative). Reflexive and possessive pronouns are also tagged (Reflexive=Yes and Poss=Yes). 
 
 # Acknowledgments
 The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior membership project](https://www.iufrance.fr/les-membres-de-liuf/membre/2346-pierre-larrivee.html) with the Institut Universitaire de France.
