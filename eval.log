@@ -1,13 +1,17 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
-Evaluating the following revision of UD_Occitan-CorAG:
-commit a3f599b63559394edb796ab6b776e2236c4e9d56
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Old_Occitan-CorAG:
+commit cca77d5d0cce514b83113f4b3c3dc5e2b0560c90
+Merge: 35cca4c a882a59
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 22:23:37 2025 +0200
-Size: counted 37585 of 37585 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.25321006925886.
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'pro_corag'
+Language code (from CoNLL-U file name) = 'pro'
+Found the following data files: pro_corag-ud-dev.conllu, pro_corag-ud-test.conllu, pro_corag-ud-train.conllu
+Size: counted 45389 of 45389 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.63053956988252.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,30 +19,61 @@ Split: Found at least 10000 test words.
 Lemmas: '_' is the most frequent lemma.
 Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 297 out of 37585 total words have one or more features.
+Features: 8773 out of 45389 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL      12400
-Udapi: found 12400 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 37585 words.
 Genres: found 1 out of 18 known.
-/net/work/people/zeman/unidep/tools/validate.py --lang oc --max-err=10 UD_Occitan-CorAG/oc_corag-ud-dev.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang pro --max-err=10 UD_Old_Occitan-CorAG/pro_corag-ud-dev.conllu
+[Line 5 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'fen' lacks the 'Mood' feature
+[Line 6 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning pron-det-without-prontype] The word 'lors' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 9 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning pron-det-without-prontype] The word 'medixe' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 12 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning pron-det-without-prontype] The word 'las' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 17 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
+[Line 20 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning pron-det-without-prontype] The word 'lors' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 22 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
+[Line 31 Sent 1460_Bearn_1_1_261_1_6]: [L3 Warning verbform-fin-without-mood] Finite verb 'negave' lacks the 'Mood' feature
+[Line 33 Sent 1460_Bearn_1_1_261_1_6]: [L3 Warning pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 36 Sent 1460_Bearn_1_1_261_1_6]: [L3 Warning verbform-fin-without-mood] Finite verb 'ere' lacks the 'Mood' feature
+...suppressing further errors regarding Warning
+Warnings: 727
 *** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang oc --max-err=10 UD_Occitan-CorAG/oc_corag-ud-test.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang pro --max-err=10 UD_Old_Occitan-CorAG/pro_corag-ud-test.conllu
+[Line 6 Sent 1460_Bearn_1_1_30_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'va' lacks the 'Mood' feature
+[Line 15 Sent 1460_Bearn_1_1_30_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'sie' lacks the 'Mood' feature
+[Line 26 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'dic' lacks the 'Mood' feature
+[Line 28 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
+[Line 35 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
+[Line 40 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'deu' lacks the 'Mood' feature
+[Line 51 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
+[Line 62 Sent 1460_Bearn_1_1_27_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'fos' lacks the 'Mood' feature
+[Line 64 Sent 1460_Bearn_1_1_27_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'deu' lacks the 'Mood' feature
+...suppressing further errors regarding Warning
+Warnings: 2017
 *** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang oc --max-err=10 UD_Occitan-CorAG/oc_corag-ud-train.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang pro --max-err=10 UD_Old_Occitan-CorAG/pro_corag-ud-train.conllu
+[Line 14 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word 'nulhs' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 16 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'dave' lacks the 'Mood' feature
+[Line 21 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word 'son' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 25 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word '-losditz' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'entrave' lacks the 'Mood' feature
+[Line 34 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word '-lo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 37 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 40 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'faze' lacks the 'Mood' feature
+[Line 44 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'pravave' lacks the 'Mood' feature
+[Line 51 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+Warnings: 6477
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
-(weight=0.256410256410256) * (score{size}=0.525004851527371) = 0.134616628596762
-(weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
-(weight=0.0769230769230769) * (score{tags}=0.823529411764706) = 0.0633484162895928
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.810810810810811) = 0.0623700623700624
-(TOTAL score=0.312044508965819) * (availability=1) * (validity=1) = 0.312044508965819
-STARS = 1.5
-UD_Occitan-CorAG	0.312044508965819	1.5
+(weight=0.111111111111111) * (score{features}=0.12) = 0.0133333333333333
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
+(weight=0.37037037037037) * (score{size}=0.552316871524065) = 0.204561804268172
+(weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
+(weight=0.111111111111111) * (score{tags}=0.823529411764706) = 0.0915032679738562
+(weight=0.111111111111111) * (score{udeprels}=0.810810810810811) = 0.0900900900900901
+(TOTAL score=0.456402075912365) * (availability=1) * (validity=1) = 0.456402075912365
+STARS = 2.5
+UD_Old_Occitan-CorAG	0.456402075912365	2.5
