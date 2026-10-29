@@ -7835,7 +7835,7 @@
 91	,	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_53_1_2
-# text = & ond lasditas partidas seran troubats haber maliciosement denegade la vertat en lasditas assertions , & respontions , seran punits de- -lo feyt à l' arbitre de lusticy .
+# text = & ond lasditas partidas seran troubats haber maliciosement denegade la vertat en lasditas assertions , & respontions , seran punits deu feyt à l' arbitre de lusticy .
 1	&	_	CCONJ	_	_	20	cc	_	_
 2	ond	_	PRON	_	PronType=Rel	6	obl	_	_
 3	lasditas	_	DET	_	_	4	det	_	_
@@ -7868,6 +7868,7 @@
 29	.	_	PUNCT	_	_	20	punct	_	_
 
 # sent_id = 1564_Stil_1_38_54_1_1
+# text = ITEM , Que feytes las Inquestes publicades , & vistes per las partidas , ou autrement , no seran admetuts à far semblable probe sus los medixs feyts , sus losquoaux lasdites Inquestes seran estades feytes , ô directament contraris ,
 1	ITEM	_	ADV	_	_	20	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	Que	_	SCONJ	_	_	20	mark	_	_
@@ -8044,7 +8045,7 @@
 43	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_57_1_1
-# text = ITEM , Ordonnam , que de si en auant , vn de- -losdits Iudges se troby à tenir l' Audience de ladite Court , quoand seran en ladita villa , sinon que autrement fossen occupats per l' affaire criminel à la iusticy , & autres charges de- -lodit Seignor ,
+# text = ITEM , Ordonnam , que de si en auant , vn deusdits Iudges se troby à tenir l' Audience de ladite Court , quoand seran en ladita villa , sinon que autrement fossen occupats per l' affaire criminel à la iusticy , & autres charges deudit Seignor ,
 1	ITEM	_	ADV	_	_	3	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	Ordonnam	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
@@ -8099,7 +8100,7 @@
 50	,	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_57_1_2
-# text = en loquoau càas , vn de- -los plus anciens Aduocats , tiendra ladite Audience en lor locq & place .
+# text = en loquoau càas , vn deus plus anciens Aduocats , tiendra ladite Audience en lor locq & place .
 1	en	_	ADP	_	_	3	case	_	_
 2	loquoau	_	DET	_	_	3	det	_	_
 3	càas	_	NOUN	_	_	12	obl	_	_
@@ -8864,7 +8865,7 @@
 30	,	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_38_61_1_3
-# text = & quand lo procez de- -losdits attentats , sera en drect , aquet sera boeytat sens attender deffinition de la matery principale ,
+# text = & quand lo procez deusdits attentats , sera en drect , aquet sera boeytat sens attender deffinition de la matery principale ,
 1	&	_	CCONJ	_	_	15	cc	_	_
 2	quand	_	SCONJ	_	_	9	mark	_	_
 3	lo	_	DET	_	_	4	det	_	_
@@ -10672,6 +10673,7 @@
 138	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_80_1_1
+# text = ITEM , Volem & Ordonnam , que en sas causes ordinaris qui viendran de prumere instancy , ô per appel en nostredit Conseilh , auparauant que no seran admetuts à probar , bailheran respectiuement lors domādes , deffences & dupliques , fens los dilays accoustumats , & feran lors productions fens los dilays per losquoaux entenden iustificar lors feyts , & lo procez estan en drect , aquet sera vist & brebetat per vn de las gens de nostre Conseilh , & si per las productions & autres pesses se pot boeytar senhs far Inqueste , sera deffinit per Sentency , ou autrement las partides admetuts à probar los feyts ; losquoaux proberan respectiuement fens los dilays ordinaris , losquoaux seran communs à toutes partides , & acquets passats , no en sera bailhat à plus abant , mes lo procez sera boeytat en l' estat en loquoau sera trouuat .
 1	ITEM	_	ADV	_	_	3	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	Volem	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
@@ -10825,6 +10827,7 @@
 151	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_81_1_1
+# text = ITEM , Ordonnam que aprez las productions feytes si partides volin impugnar aqueres , los sera bailhat vn dilay de oeytene tant solament .
 1	ITEM	_	ADV	_	_	3	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	Ordonnam	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
@@ -10851,6 +10854,7 @@
 24	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_82_1_1
+# text = ITEM , Volem & Ordonnam , que los interpausans , viendran en forme prets de lors pesses , & productions , mes per talle interposition lo procez principal no sera point retardat .
 1	ITEM	_	ADV	_	_	3	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	Volem	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
@@ -11036,6 +11040,7 @@
 93	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_85_1_1
+# text = ITEM , Ordonnam , que toutes causes sommaris , & d' estrangers seran expedides sommariment & de plâa en nostre dit Conseilh .
 1	ITEM	_	ADV	_	_	3	advmod	_	_
 2	,	_	PUNCT	_	_	3	punct	_	_
 3	Ordonnam	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	0	root	_	_

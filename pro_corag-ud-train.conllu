@@ -48191,6 +48191,7 @@
 26	,	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 1564_Stil_1_23_3_1_2
+# text = & si produsexen ny bailhen contradits , las partidas y seran recebudes fents oeytene ,
 1	&	_	CCONJ	_	_	12	cc	_	_
 2	si	_	SCONJ	_	_	3	mark	_	_
 3	produsexen	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	12	advcl	_	_
@@ -48208,6 +48209,7 @@
 15	,	_	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 1564_Stil_1_23_3_1_3
+# text = & aquere passade , lò procez claus en drect ;
 1	&	_	CCONJ	_	_	7	cc	_	_
 2	aquere	_	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	_
 3	passade	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
@@ -48220,6 +48222,7 @@
 10	;	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_23_3_1_4
+# text = Loquoal no se poeyra boeytar entro oeyt iorns aprés ladita clausion ,
 1	Loquoal	_	PRON	_	PronType=Rel	4	nsubj	_	_
 2	no	_	ADV	_	Polarity=Neg	4	advmod	_	_
 3	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	expl	_	_
@@ -48368,6 +48371,7 @@
 29	,	_	PUNCT	_	_	19	punct	_	_
 
 # sent_id = 1564_Stil_1_23_5_1_2
+# text = mes seran decidides per iurament de partidas , qui vienderan comparir en personna , où per procuration sufficientament fondat per dauant ló Iudge oeyt iorns aprés ladijta comparition , per estar tirats fore de procez per iurament , où autrement .
 1	mes	_	CCONJ	_	_	3	cc	_	_
 2	seran	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	3	aux:pass	_	_
 3	decidides	_	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -48486,6 +48490,7 @@
 23	:	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 1564_Stil_1_24_1_1_3
+# text = Toutes bets per l' oppausition fermade per lò Ters , l' execution de Sentencia no sera retardade contre lò condamnat .
 1	Toutes	_	ADV	_	_	17	advmod	_	_
 2	bets	_	ADV	_	_	1	conj	_	_
 3	per	_	ADP	_	_	5	case	_	_
@@ -48509,6 +48514,7 @@
 21	.	_	PUNCT	_	_	17	punct	_	_
 
 # sent_id = 1564_Stil_1_24_2_1_1
+# text = ET si talles causas d' opposition son propausades per dauant l' executor , aqueres seran ranboyades per dauant lò Cometent per conexer si son reilhebantes ny admissibles à probar .
 1	ET	_	CCONJ	_	_	16	cc	_	_
 2	si	_	SCONJ	_	_	8	mark	_	_
 3	talles	_	DET	_	_	4	det	_	_
@@ -48726,7 +48732,7 @@
 51	.	_	PUNCT	_	_	15	punct	_	_
 
 # sent_id = 1564_Stil_1_25_3_1_1_2
-# text = ET si la partida condamnade balhe ladijta declaratiō fens ladite quinzaine après la Sentēçia , la partida qui aura obtiēgut , & qui pretēdera y haber plus grands fructs , oú de plus grande estimation , balhera & informera de la plus grande quantitat & valor deusdits fructs , & la partida condamnade au contrary ,
+# text = ET si la partida condamnade balhe ladijta declaratiō fens ladite quinzaine après la Sentēçia , la partida qui aura obtiēgut , & qui pretēdera y haber plus grands fructs , oú de plus grande estimation , balhera & informera de la plus grande quantitat & valor deusdits fructs , & la partida condamnade au contrary , lò tout dens quinze iorns ,
 1	ET	_	CCONJ	_	_	37	cc	_	_
 2	si	_	SCONJ	_	_	6	mark	_	_
 3	la	_	DET	_	_	4	det	_	_
@@ -48795,6 +48801,7 @@
 64	,	_	PUNCT	_	_	37	punct	_	_
 
 # sent_id = 1564_Stil_1_25_3_1_3
+# text = & en acquet caâs no y aura obiects de vn costat ny autre .
 1	&	_	CCONJ	_	_	7	cc	_	_
 2	en	_	ADP	_	_	4	case	_	_
 3	acquet	_	DET	_	_	4	det	_	_
@@ -49221,6 +49228,7 @@
 26	,	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1564_Stil_1_26_1_1_2
+# text = autrement l' appellation sera per non feyte ,
 1	autrement	_	ADV	_	_	4	advmod	_	_
 2	l'	_	DET	_	_	3	det	_	_
 3	appellation	_	NOUN	_	_	4	nsubj	_	_
@@ -49244,6 +49252,7 @@
 10	.	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 1564_Stil_1_26_2_1_1
+# text = ET si la Sentençia contient plusiors caps , l' appellant sera tengut declarar per rason de quenh cap se appera , & aquet perseguir ,
 1	ET	_	CCONJ	_	_	12	cc	_	_
 2	si	_	SCONJ	_	_	5	mark	_	_
 3	la	_	DET	_	_	4	det	_	_
@@ -49597,6 +49606,7 @@
 43	.	_	PUNCT	_	_	34	punct	_	_
 
 # sent_id = 1564_Stil_1_26_7_1_1
+# text = SI l' Appellant de Sentençia interlocutory simple perseguexs & anticippe auant ló relheu de inhibition , encoeres que sie dit bien iudyat , deu estâr condamnat ab despens , dautant podé fár procedir ló Iudge à quo entro que l' appellant l' agosse impedit , relhebat , & inhibit , mais quand l' interlocutory es geminade ,
 1	SI	_	SCONJ	_	_	8	mark	_	_
 2	l'	_	DET	_	_	3	det	_	_
 3	Appellant	_	NOUN	_	_	8	nsubj	_	_
@@ -49656,6 +49666,7 @@
 57	,	_	PUNCT	_	_	31	punct	_	_
 
 # sent_id = 1564_Stil_1_26_7_1_2
+# text = lasbets senhs attender las inhibitions , l' apperat poeyra anticipar .
 1	lasbets	_	ADV	_	_	9	advmod	_	_
 2	senhs	_	ADP	_	Polarity=Neg	3	mark	_	_
 3	attender	_	VERB	_	VerbForm=Inf	9	advcl	_	_
@@ -49823,6 +49834,7 @@
 37	,	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_26_9_1_5
+# text = & dedusit l' iniquitat de ladiita Sentençia , ló Iudge de l' appellation farà drect suús la iustiçia de la causa , senhs haber esgoard à lasdiitas nullitats ,
 1	&	_	CCONJ	_	_	14	cc	_	_
 2	dedusit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	_
 3	l'	_	DET	_	_	4	det	_	_
@@ -50266,6 +50278,7 @@
 16	,	_	PUNCT	_	_	13	punct	_	_
 
 # sent_id = 1564_Stil_1_27_5_1_4
+# text = empero si domande dilay per exhibir , luy sera bailhat de oeytene precise .
 1	empero	_	ADV	_	_	10	advmod	_	_
 2	si	_	SCONJ	_	_	3	mark	_	_
 3	domande	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	10	advcl	_	_
@@ -50282,7 +50295,7 @@
 14	.	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 1564_Stil_1_27_6_1_1
-# text = Si a- -lo jorn de la comparition ló Citat dits no aber en son poder los Mandaments & fondaments , abans que aquets son en maâs de- -lo Bayle , ou executor , & no los poder recrubar sens mandaments de justicy , de talle allegation feyte per luy , & son Aduocat lodit jorn , sera feyt acte ,
+# text = Si au jorn de la comparition ló Citat dits no aber en son poder los Mandaments & fondaments , abans que aquets son en maâs deu Bayle , ou executor , & no los poder recrubar sens mandaments de justicy , de talle allegation feyte per luy , & son Aduocat lodit jorn , sera feyt acte ,
 1	Si	_	SCONJ	_	_	10	mark	_	_
 2-3	au	_	_	_	_	_	_	_	_
 2	a-	_	ADP	_	_	4	case	_	_
@@ -50371,7 +50384,7 @@
 21	,	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_27_6_1_3
-# text = luy sera pribat de l' effieyt de- -quets , entro l' exhibicion ab despens .
+# text = luy sera pribat de l' effieyt dequets , entro l' exhibicion ab despens .
 1	luy	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	sera	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	_
 3	pribat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -50452,6 +50465,7 @@
 22	.	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 1564_Stil_1_27_8_1_1
+# text = Toutes-bets si lodit Supplicant , ô Citant vien prest per depositar com par dessus es dit en ló ters artigle de la present Rubrica la somme principale , & refondir ló Relaixs , sera recebut à bailhar sás causas de impugnation fens tres jorns , & autreyats autres tres jorns à partidá aduersa ,
 1	Toutes-bets	_	ADV	_	_	35	advmod	_	_
 2	si	_	SCONJ	_	_	8	mark	_	_
 3	lodit	_	DET	_	_	4	det	_	_
@@ -50508,6 +50522,7 @@
 54	,	_	PUNCT	_	_	35	punct	_	_
 
 # sent_id = 1564_Stil_1_27_8_1_2
+# text = si lós feyts son reilhebants & subjects à probar , sera bailhat à tous emsemble vn dilay precis de quinzene per probar & produsir ,
 1	si	_	SCONJ	_	_	5	mark	_	_
 2	lós	_	DET	_	_	3	det	_	_
 3	feyts	_	NOUN	_	_	5	nsubj	_	_
@@ -50535,6 +50550,7 @@
 25	,	_	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 1564_Stil_1_27_8_1_3
+# text = loquoal passat lò procez sera appuntat en drect .
 1	loquoal	_	PRON	_	PronType=Rel	6	nsubj	_	_
 2	passat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
 3	lò	_	DET	_	_	4	det	_	_
@@ -50546,6 +50562,7 @@
 9	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 1564_Stil_1_27_9_1_1
+# text = Et en câas l' exhibition sie de cause taxade lo citant declarera de quenhs artigles de la taxe se plain , & vol baillar impugnation ,
 1	Et	_	CCONJ	_	_	12	cc	_	_
 2	en	_	ADP	_	ExtPos=SCONJ	6	mark	_	_
 3	câas	_	NOUN	_	_	2	fixed	_	_
@@ -50574,6 +50591,7 @@
 26	,	_	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 1564_Stil_1_27_9_1_2
+# text = & per lo demorant de ladite taxe , lo Mandament sortira a effieyt .
 1	&	_	CCONJ	_	_	11	cc	_	_
 2	per	_	ADP	_	_	4	case	_	_
 3	lo	_	DET	_	_	4	det	_	_
@@ -50660,6 +50678,7 @@
 66	,	_	PUNCT	_	_	19	punct	_	_
 
 # sent_id = 1564_Stil_1_27_10_1_2
+# text = loquoal passat , lo procez sera claudit en drect .
 1	loquoal	_	PRON	_	PronType=Rel	2	nsubj	_	_
 2	passat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
 3	,	_	PUNCT	_	_	2	punct	_	_
@@ -51242,6 +51261,7 @@
 24	,	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 1564_Stil_1_29_1_1_2
+# text = & se commensera laditte Audience en temps d' hiuer à oeyt hores de matin , & en temps d' estiu à sept hores .
 1	&	_	CCONJ	_	_	3	cc	_	_
 2	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	3	expl	_	_
 3	commensera	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -51388,6 +51408,7 @@
 65	,	_	PUNCT	_	_	28	punct	_	_
 
 # sent_id = 1564_Stil_1_29_2_1_4
+# text = & aduenent talle condamnadation losdits Aduocats tiendran l' Arrest en los Casteits où Maisons ond se tiendran losdits Siedges , tant entro auran pagat las sommes à lasquoales seran estats condamnats .
 1	&	_	CCONJ	_	_	7	cc	_	_
 2	aduenent	_	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	7	advcl	_	_
 3	talle	_	DET	_	_	4	det	_	_
@@ -52542,6 +52563,7 @@
 52	.	_	PUNCT	_	_	33	punct	_	_
 
 # sent_id = 1564_Stil_1_30_5_1_1
+# text = TOVTS personnadges priuilediats où non priuilediats debin responner per dauant lô Iudge layc en causa de euiction , reddition de comptes , administration de tutela , recouurement de Cedule , & autres causas qui son escriutes en drect , & a qui receber iudjament & diffinition .
 1	TOVTS	_	DET	_	_	2	det	_	_
 2	personnadges	_	NOUN	_	_	7	nsubj	_	_
 3	priuilediats	_	ADJ	_	_	2	amod	_	_
@@ -52591,6 +52613,7 @@
 47	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_31_1_1_1
+# text = PER TOLLIR LAS AMBIGVItats qui son où poeyren tombar sus la forma de fár Inquant en lò For contengude , talle forma sera obseruade ab la declaration sus los artigles deiuûs especifitat escriute .
 1	PER	_	ADP	_	_	2	mark	_	_
 2	TOLLIR	_	VERB	_	VerbForm=Inf	24	advcl	_	_
 3	LAS	_	DET	_	_	4	det	_	_
@@ -52726,6 +52749,7 @@
 3	:	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 1564_Stil_1_31_4_1_3
+# text = si la prumere Cride se fé ló prumer iorn deu mes , la segonde se farà lò quoart ,
 1	si	_	SCONJ	_	_	6	mark	_	_
 2	la	_	DET	_	_	4	det	_	_
 3	prumere	_	ADJ	_	_	4	amod	_	_
@@ -52747,6 +52771,7 @@
 19	,	_	PUNCT	_	_	16	punct	_	_
 
 # sent_id = 1564_Stil_1_31_4_1_4
+# text = la terse se fará lò septal ,
 1	la	_	DET	_	_	2	det	_	_
 2	terse	_	NOUN	_	_	4	nsubj	_	_
 3	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl	_	_
@@ -52756,6 +52781,7 @@
 7	,	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1564_Stil_1_31_4_1_5
+# text = & en lò noual , se farà quoarte Cride per superabondance .
 1	&	_	CCONJ	_	_	7	cc	_	_
 2	en	_	ADP	_	_	4	case	_	_
 3	lò	_	DET	_	_	4	det	_	_
@@ -52770,6 +52796,7 @@
 12	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_31_5_1_1
+# text = MAIS lós Inquants no se poeyran començar en iorn de Dimenche .
 1	MAIS	_	CCONJ	_	_	6	cc	_	_
 2	lós	_	DET	_	_	3	det	_	_
 3	Inquants	_	NOUN	_	_	6	nsubj	_	_
@@ -52930,6 +52957,7 @@
 17	.	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_3_1
+# text = De causas non excedentes vingt soôs morlaás lheberan losdits Notaris per diette tres dineês morlaâs , & los Aduocats semblablement .
 1	De	_	ADP	_	_	2	case	_	_
 2	causas	_	NOUN	_	_	8	obl	_	_
 3	non	_	ADV	_	Polarity=Neg	4	advmod	_	_
@@ -52988,6 +53016,7 @@
 32	.	_	PUNCT	_	_	30	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_5_1
+# text = A son substitut approbat tres soôs & miey morlaás .
 1	A	_	ADP	_	_	3	case	_	_
 2	son	_	DET	_	_	3	det	_	_
 3	substitut	_	NOUN	_	_	6	obl	_	_
@@ -53000,6 +53029,7 @@
 10	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_6_1
+# text = Item quand augun Aduocat sera deputat Commissary ou adiunt per la Cort sieys soós morlaâs .
 1	Item	_	ADV	_	_	14	advmod	_	_
 2	quand	_	SCONJ	_	_	6	mark	_	_
 3	augun	_	DET	_	_	4	det	_	_
@@ -53018,6 +53048,7 @@
 16	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_7_1
+# text = Et lò Notary qui escribera ius luy quoate soòs morlaás .
 1	Et	_	CCONJ	_	_	3	cc	_	_
 2	lò	_	DET	_	_	3	det	_	_
 3	Notary	_	NOUN	_	_	9	obl	_	_
@@ -53031,6 +53062,7 @@
 11	.	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_8_1
+# text = Lò Iudge per chascun iorn qui vacquera en cōmission , nau soôs morlaás .
 1	Lò	_	DET	_	_	2	det	_	_
 2	Iudge	_	NOUN	_	_	12	obl	_	_
 3	per	_	ADP	_	_	5	case	_	_
@@ -53047,6 +53079,7 @@
 14	.	_	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_9_1
+# text = Lodit Iudge per asistir à prener iurament extraiudicialement , dus soós morlaás .
 1	Lodit	_	DET	_	_	2	det	_	_
 2	Iudge	_	NOUN	_	_	11	obl	_	_
 3	per	_	ADP	_	_	4	mark	_	_
@@ -53062,6 +53095,7 @@
 13	.	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_10_1
+# text = Aduocat si es cometut per asistir à prener augun iurament vn soó morlaá .
 1	Aduocat	_	NOUN	_	_	12	obl	_	_
 2	si	_	SCONJ	_	_	4	mark	_	_
 3	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	_
@@ -53119,6 +53153,7 @@
 23	.	_	PUNCT	_	_	21	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_13_1
+# text = A l' Aduocat per chacun testimony qui audira en la prefent villa , ou si es adiunt vn soô morlaá .
 1	A	_	ADP	_	_	3	case	_	_
 2	l'	_	DET	_	_	3	det	_	_
 3	Aduocat	_	NOUN	_	_	19	obl	_	_
@@ -53142,6 +53177,7 @@
 21	.	_	PUNCT	_	_	19	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_14_1
+# text = A l' Aduocat ou son substitut per tiquetar chacun testimony en la present villa , sieys dineês morlaâs .
 1	A	_	ADP	_	_	3	case	_	_
 2	l'	_	DET	_	_	3	det	_	_
 3	Aduocat	_	NOUN	_	_	17	obl	_	_
@@ -53184,6 +53220,7 @@
 17	.	_	PUNCT	_	_	15	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_16_1
+# text = Et per Sentençia non excedente vn soô morlaâ
 1	Et	_	CCONJ	_	_	7	cc	_	_
 2	per	_	ADP	_	_	3	case	_	_
 3	Sentençia	_	NOUN	_	_	7	obl	_	_
@@ -53194,6 +53231,7 @@
 8	morlaâ	_	ADJ	_	_	7	amod	_	_
 
 # sent_id = 1564_Stil_1_31_7_16_2
+# text = Per Ordonnance suûs incidents ond y aye condamnation de despens , vn soô morlaâ .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Ordonnance	_	NOUN	_	_	13	obl	_	_
 3	suûs	_	ADP	_	_	4	case	_	_
@@ -53211,6 +53249,7 @@
 15	.	_	PUNCT	_	_	13	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_17_1
+# text = Per Mandament Generau , vn soô morlaâ .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	6	obl	_	_
 3	Generau	_	ADJ	_	_	2	amod	_	_
@@ -53221,6 +53260,7 @@
 8	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_18_1
+# text = Per Mandament missory en pocession , vn soô morlaá .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	8	obl	_	_
 3	missory	_	NOUN	_	_	2	nmod	_	_
@@ -53233,6 +53273,7 @@
 10	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_19_1
+# text = Per Mandament de Manutence , vn soô morlaá ;
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	7	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -53244,6 +53285,7 @@
 9	;	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_20_1
+# text = Per Mandament de Sosmalheuta vn soô morl .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	6	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -53254,6 +53296,7 @@
 8	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_21_1
+# text = Per Mandament de taxe de despens dus soôs morlaás .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	8	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -53266,6 +53309,7 @@
 10	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_22_1
+# text = Per Confez & Mandament , tres soôs morlaàs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Confez	_	NOUN	_	_	7	obl	_	_
 3	&	_	CCONJ	_	_	4	cc	_	_
@@ -53277,6 +53321,7 @@
 9	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_23_1
+# text = Per Mandament Instrument ab Greuge , vn soó morlaà .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	8	obl	_	_
 3	Instrument	_	NOUN	_	_	2	nmod	_	_
@@ -53289,6 +53334,7 @@
 10	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_24_1
+# text = Per Mandament de apperar prims , vn soó & miey morlaà .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	8	obl	_	_
 3	de	_	ADP	_	_	4	mark	_	_
@@ -53303,6 +53349,7 @@
 12	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_25_1
+# text = Per Mandament de crear Tutors , vn soó tres dineès morlaàs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	8	obl	_	_
 3	de	_	ADP	_	_	4	mark	_	_
@@ -53317,6 +53364,7 @@
 12	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_26_1
+# text = Per Mandament appellatory vn soó morlaá .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	5	obl	_	_
 3	appellatory	_	ADJ	_	_	2	amod	_	_
@@ -53346,6 +53394,7 @@
 16	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_28_1
+# text = Per Mandament d' estermiement , sieys soós morlaàs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	7	obl	_	_
 3	d'	_	ADP	_	_	4	case	_	_
@@ -53357,6 +53406,7 @@
 9	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_29_1
+# text = Per Mandament de partilhe de Fiu , sieys soós morlaàs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Mandament	_	NOUN	_	_	9	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -53395,6 +53445,7 @@
 11	.	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_32_1
+# text = Per Lettres requisitoris fore ló present pays de Bearn , dus soós morlaàs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Lettres	_	NOUN	_	_	12	obl	_	_
 3	requisitoris	_	ADJ	_	_	2	amod	_	_
@@ -53436,6 +53487,7 @@
 22	.	_	PUNCT	_	_	20	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_34_1
+# text = Per l' appuntament commissional & autre ond y aye Mandament Compulsory per treyer Cartes où portan inhibitions , per chacun doutze dineès morlaàs .
 1	Per	_	ADP	_	_	3	case	_	_
 2	l'	_	DET	_	_	3	det	_	_
 3	appuntament	_	NOUN	_	_	22	obl	_	_
@@ -53462,6 +53514,7 @@
 24	.	_	PUNCT	_	_	22	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_35_1
+# text = Per chacun Citatory sieys dineès morlaàs .
 1	Per	_	ADP	_	_	3	case	_	_
 2	chacun	_	DET	_	_	3	det	_	_
 3	Citatory	_	NOUN	_	_	5	obl	_	_
@@ -53493,6 +53546,7 @@
 18	.	_	PUNCT	_	_	16	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_37_1
+# text = Et losdijts Notaris en causas excedentes no lheberan doubles de las Cedules , sinon que per la partida , son Aduocat où substitut en sie requerit .
 1	Et	_	CCONJ	_	_	8	cc	_	_
 2	losdijts	_	DET	_	_	3	det	_	_
 3	Notaris	_	NOUN	_	_	8	nsubj	_	_
@@ -53522,6 +53576,7 @@
 27	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_38_1
+# text = Per Sentençias d' appels de Iurats ausdijts Notaris , oultre las diettes tres soós morlaàs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	Sentençias	_	NOUN	_	_	14	obl	_	_
 3	d'	_	ADP	_	_	4	case	_	_
@@ -53540,6 +53595,7 @@
 16	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_39_1
+# text = Per coppie de Sentençia excedente & non excedente , vn soó morlaà .
 1	Per	_	ADP	_	_	2	case	_	_
 2	coppie	_	NOUN	_	_	11	nmod	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -53576,6 +53632,7 @@
 18	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_41_1
+# text = Per coppie d' actes de procez quand partidas en domanderan , ló qui sera taxat moderadement per lò Iudge .
 1	Per	_	ADP	_	_	2	case	_	_
 2	coppie	_	NOUN	_	_	12	obl	_	_
 3	d'	_	ADP	_	_	4	case	_	_
@@ -53638,6 +53695,7 @@
 19	.	_	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_43_1
+# text = Los Notaris per audition de Testimonis contre Criminoòs ab la accaration en caàs sie condānat à pena ciuille per chacun testimony , vn soò morlaà .
 1	Los	_	DET	_	_	2	det	_	_
 2	Notaris	_	NOUN	_	_	24	obl	_	_
 3	per	_	ADP	_	_	4	case	_	_
@@ -53724,6 +53782,7 @@
 13	.	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_46_1
+# text = Per audition de criminoòs si no es condamnat à pena de sang , où exil , vn soò morlaà .
 1	Per	_	ADP	_	_	2	case	_	_
 2	audition	_	NOUN	_	_	18	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -53746,6 +53805,7 @@
 20	.	_	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_47_1
+# text = Per double de Libel , per focilhe sieys dineês morlaàs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	double	_	NOUN	_	_	9	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -53759,6 +53819,7 @@
 11	.	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_48_1
+# text = Per salaris de procez sus interinations de graçias ab la Sentençia suppausat sien vn où plus impetrants , tant solament en lhebera lò Notary sixante soòs morlaàs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	salaris	_	NOUN	_	_	26	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -53789,6 +53850,7 @@
 28	.	_	PUNCT	_	_	26	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_49_1
+# text = Per cascun instrument de Relheu bien grossat & estendut dus soòs morlaàs .
 1	Per	_	ADP	_	_	3	case	_	_
 2	cascun	_	DET	_	_	3	det	_	_
 3	instrument	_	NOUN	_	_	11	obl	_	_
@@ -53831,6 +53893,7 @@
 23	.	_	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_50_2
+# text = A tout Executor sie Baile où Beguer per executar mandament de Manutenence missory en possession , où autre de somme excedente ab inthimation senhs voce tube , ny affiction de la coppie , sieys soòs morlaàs .
 1	A	_	ADP	_	_	3	case	_	_
 2	tout	_	DET	_	_	3	det	_	_
 3	Executor	_	NOUN	_	_	35	obl	_	_
@@ -53870,6 +53933,7 @@
 37	.	_	PUNCT	_	_	35	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_51_1
+# text = Et si y à voce tube , & dit es affiction ab l' execution principale , sieys soòs morlaàs .
 1	Et	_	CCONJ	_	_	4	cc	_	_
 2	si	_	SCONJ	_	_	4	mark	_	_
 3	y	_	PRON	_	Person=3|PronType=Prs	4	expl	_	_
@@ -53957,7 +54021,7 @@
 14	.	_	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_54_1
-# text = Item a- -lodit Baile per inthimar executions si es de causas excedentes , vn soò morlaà ,
+# text = Item audit Baile per inthimar executions si es de causas excedentes , vn soò morlaà ,
 1	Item	_	ADV	_	_	15	advmod	_	_
 2-3	audit	_	_	_	_	_	_	_	_
 2	a-	_	ADP	_	_	4	case	_	_
@@ -53991,6 +54055,7 @@
 10	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_55_1
+# text = Per executions de Mandaments & autres sommes non excedentes doutze dineès morlaâs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	executions	_	NOUN	_	_	11	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -54018,7 +54083,7 @@
 9	morlaàs	_	ADJ	_	_	8	amod	_	_
 
 # sent_id = 1564_Stil_1_31_7_56_2
-# text = tant à la Cride que a- -lo Baile oeyt dineès morlaàs ,
+# text = tant à la Cride que au Baile oeyt dineès morlaàs ,
 1	tant	_	ADV	_	_	4	advmod	_	_
 2	à	_	ADP	_	_	4	case	_	_
 3	la	_	DET	_	_	4	det	_	_
@@ -54046,7 +54111,7 @@
 9	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_57_1
-# text = A- -lodit Baile per la vendition a- -los Inquants , lieurament & tradition de possession , sieys dineès morlaàs .
+# text = Audit Baile per la vendition aux Inquants , lieurament & tradition de possession , sieys dineès morlaàs .
 1-2	Audit	_	_	_	_	_	_	_	_
 1	A-	_	ADP	_	_	3	case	_	_
 2	-lodit	_	DET	_	_	3	det	_	_
@@ -54071,7 +54136,7 @@
 20	.	_	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_57_2
-# text = Per la distribution de- -lo deposit sieys dineès morlaàs .
+# text = Per la distribution deu deposit sieys dineès morlaàs .
 1	Per	_	ADP	_	_	3	case	_	_
 2	la	_	DET	_	_	3	det	_	_
 3	distribution	_	NOUN	_	_	8	obl	_	_
@@ -54109,6 +54174,7 @@
 20	.	_	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_59_1
+# text = Per double de supplication , appuntament & inthimation , oeyt dineès morlaás .
 1	Per	_	ADP	_	_	2	case	_	_
 2	double	_	NOUN	_	_	11	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -54124,6 +54190,7 @@
 13	.	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_60_1
+# text = Per double de Citatory & expleit quoatte dineès morlaàs .
 1	Per	_	ADP	_	_	2	case	_	_
 2	double	_	NOUN	_	_	8	obl	_	_
 3	de	_	ADP	_	_	4	case	_	_
@@ -54136,6 +54203,7 @@
 10	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_61_1
+# text = A la Cride per far los inquants de beés mobles , dus dineès morlaàs .
 1	A	_	ADP	_	_	3	case	_	_
 2	la	_	DET	_	_	3	det	_	_
 3	Cride	_	NOUN	_	_	13	obl	_	_
@@ -54153,6 +54221,7 @@
 15	.	_	PUNCT	_	_	13	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_62_1
+# text = Au Baile doutze dineès morlaàs .
 1	Au	_	ADP	_	_	2	case	_	_
 2	Baile	_	NOUN	_	_	4	obl	_	_
 3	doutze	_	NUM	_	_	4	nummod	_	_
@@ -54208,6 +54277,7 @@
 20	,	_	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_65_2
+# text = & per cascune de las autres dus dineés morlaás ,
 1	&	_	CCONJ	_	_	8	cc	_	_
 2	per	_	ADP	_	_	3	case	_	_
 3	cascune	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	obl	_	_
@@ -54344,6 +54414,7 @@
 13	.	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_31_7_69_1
+# text = Per retenir l' acte de missory en possession , dus soós & miey morlaàs .
 1	Per	_	ADP	_	_	2	mark	_	_
 2	retenir	_	VERB	_	VerbForm=Inf	11	advcl	_	_
 3	l'	_	DET	_	_	4	det	_	_
@@ -54869,6 +54940,7 @@
 28	.	_	PUNCT	_	_	15	punct	_	_
 
 # sent_id = 1564_Stil_1_32_7_1_1
+# text = EN semblable forma seran executats & apperats los autres Citatoris .
 1	EN	_	ADP	_	_	3	case	_	_
 2	semblable	_	ADJ	_	_	3	amod	_	_
 3	forma	_	NOUN	_	_	5	obl	_	_
@@ -54935,7 +55007,7 @@
 50	;	_	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 1564_Stil_1_32_8_1_2
-# text = Toutes bets si tals personnadges per rason d' vn medixs delicte compreês en vn medixs Decret no comparen abants se lexin meter en la vcque , lodit Procuraire no poeyra exigir de- -los touts que vne vcque departideré egalement enter losdits vcquats ,
+# text = Toutes bets si tals personnadges per rason d' vn medixs delicte compreês en vn medixs Decret no comparen abants se lexin meter en la vcque , lodit Procuraire no poeyra exigir deus touts que vne vcque departideré egalement enter losdits vcquats ,
 1	Toutes	_	ADV	_	_	18	advmod	_	_
 2	bets	_	ADV	_	_	1	conj	_	_
 3	si	_	SCONJ	_	_	18	mark	_	_
@@ -54982,7 +55054,7 @@
 43	,	_	PUNCT	_	_	30	punct	_	_
 
 # sent_id = 1564_Stil_1_32_8_1_3
-# text = empero los prumeês comparens pagueran integrement lò salary de tal vcque , saubes las actions & regles contre lòs autres vcquats lors complicis , en loquoal caâs es inhibit a- -lo Prócuraire en exigir rien de- -los autres vcquats compreês en lodit Dècret à pena de concussion .
+# text = empero los prumeês comparens pagueran integrement lò salary de tal vcque , saubes las actions & regles contre lòs autres vcquats lors complicis , en loquoal caâs es inhibit au Prócuraire en exigir rien deus autres vcquats compreês en lodit Dècret à pena de concussion .
 1	empero	_	ADV	_	_	5	advmod	_	_
 2	los	_	DET	_	_	4	det	_	_
 3	prumeês	_	ADJ	_	_	4	amod	_	_
@@ -55173,6 +55245,7 @@
 30	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_32_11_1_1
+# text = ET en caâs fousse autrement , es de cy & deya priuat de touts drets & salaris d' executions qui aura feyt , oú poeyré fár .
 1	ET	_	CCONJ	_	_	7	cc	_	_
 2	en	_	ADP	_	ExtPos=SCONJ	4	mark	_	_
 3	caâs	_	NOUN	_	_	2	fixed	_	_
@@ -55996,7 +56069,7 @@
 18	,	_	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 1564_Stil_1_32_20_1_2
-# text = & aquet balherá a- -lo Seneschal , où autres personnadges per luy commetuts per captionar los decretats , de- -loquoal en prenera recipissé ,
+# text = & aquet balherá au Seneschal , où autres personnadges per luy commetuts per captionar los decretats , deuquoal en prenera recipissé ,
 1	&	_	CCONJ	_	_	3	cc	_	_
 2	aquet	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
 3	balherá	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -56206,7 +56279,7 @@
 26	,	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1564_Stil_1_32_23_1_3
-# text = per toute prefiction de dilays senhs que autre que ló President où Conselheês de ladiita Crampe posquen audir & examinar losdits presonneês comparents & arrestats , es inhibit a- -los Notaris à pena de faux de prener augunes auditions de- losdits decretats & comparents , senhs la presency de- -lo President , où augun Conselheè de la Crampe , qui seran tenguts dictar a- -lo Notary lasdijtas auditions & procedures .
+# text = per toute prefiction de dilays senhs que autre que ló President où Conselheês de ladiita Crampe posquen audir & examinar losdits presonneês comparents & arrestats , es inhibit aux Notaris à pena de faux de prener augunes auditions deusdits decretats & comparents , senhs la presency deu President , où augun Conselheè de la Crampe , qui seran tenguts dictar au Notary lasdijtas auditions & procedures .
 1	per	_	ADP	_	_	3	case	_	_
 2	toute	_	DET	_	_	3	det	_	_
 3	prefiction	_	NOUN	_	_	28	obl	_	_
@@ -56353,6 +56426,7 @@
 36	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1564_Stil_1_32_25_1_1
+# text = ET comparents losdits testimonis , acquets tout incontinent seran audits & accarats per dus Conselheès de ladita Crampe .
 1	ET	_	CCONJ	_	_	10	cc	_	_
 2	comparents	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	_
 3	losdits	_	DET	_	_	4	det	_	_
@@ -56572,6 +56646,7 @@
 61	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_32_29_1_1
+# text = ET feyt tal rapport dauant publication en causa , serâ ordonnat , que lò probengut balhy obiets , & produsesque so que bon ló semblerà fents lò termy de quinze iorns ,
 1	ET	_	CCONJ	_	_	11	cc	_	_
 2	feyt	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	_
 3	tal	_	DET	_	_	4	det	_	_
@@ -56606,6 +56681,7 @@
 32	,	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_32_29_1_2
+# text = losquoals passats , l' inqueste sera publicade , & lò procez claus en drect , qui no se poeyra diffinir que oeyt iorns no sien passats .
 1	losquoals	_	PRON	_	PronType=Rel	2	nsubj	_	_
 2	passats	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	advcl	_	_
 3	,	_	PUNCT	_	_	2	punct	_	_
@@ -56635,6 +56711,7 @@
 27	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_32_30_1_1
+# text = EMPERO si ló Probengut balhe deffences où obiets dauant diffinition de causa , aqueres seran visitades per los Senhors de la Crampe , per aduisár si y há feyts reilhebants ,
 1	EMPERO	_	ADV	_	_	16	advmod	_	_
 2	si	_	SCONJ	_	_	5	mark	_	_
 3	ló	_	DET	_	_	4	det	_	_
@@ -56668,6 +56745,7 @@
 31	,	_	PUNCT	_	_	16	punct	_	_
 
 # sent_id = 1564_Stil_1_32_30_1_2
+# text = & en caâs en y aye , será admettut à probar ,
 1	&	_	CCONJ	_	_	9	cc	_	_
 2	en	_	ADP	_	ExtPos=SCONJ	6	mark	_	_
 3	caâs	_	NOUN	_	_	2	fixed	_	_
@@ -56682,6 +56760,7 @@
 12	,	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 1564_Stil_1_32_30_1_3
+# text = & lor será concedit dilay precis de quinzene ab inthimation , que acquet passat , lô procez será claus en dret , en se purgan per iurament las partidas où lors Aduocats no haber vist las Inquestes , per lor ny autre interpausade personna .
 1	&	_	CCONJ	_	_	4	cc	_	_
 2	lor	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	iobj	_	_
 3	será	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	_
@@ -56729,6 +56808,7 @@
 45	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1564_Stil_1_32_31_1_1
+# text = NVL no sera admetut per Interpausant , sinon que bailhy son interpausition per escriut en lasditas causas criminalles .
 1	NVL	_	NOUN	_	_	4	nsubj	_	_
 2	no	_	ADV	_	Polarity=Neg	4	advmod	_	_
 3	sera	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	_
@@ -56750,6 +56830,7 @@
 19	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1564_Stil_1_32_32_1_2
+# text = BALHADE talle interpausition , ló prebengut aurà dilay precis de oeytene per responner ,
 1	BALHADE	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	_
 2	talle	_	DET	_	_	3	det	_	_
 3	interpausition	_	NOUN	_	_	1	nsubj	_	_
@@ -56766,6 +56847,7 @@
 14	,	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_32_32_1_3
+# text = passade laquoalle l' interpausant serà admettut à probar ,
 1	passade	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
 2	laquoalle	_	PRON	_	PronType=Rel	1	nsubj	_	_
 3	l'	_	DET	_	_	4	det	_	_
@@ -56792,6 +56874,7 @@
 12	,	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_32_32_1_5
+# text = passade laquoalle , lò procez será claus en drect , si autrement lodict procez es instruit tant per ló Procuraire , que per ló prebengut .
 1	passade	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
 2	laquoalle	_	PRON	_	PronType=Rel	1	nsubj	_	_
 3	,	_	PUNCT	_	_	1	punct	_	_
@@ -56867,7 +56950,7 @@
 16	,	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1564_Stil_1_32_33_1_3
-# text = & trobats que seran relhebants , serà balhat dilay de oeytene a- -lo prebengut per aquets probar ,
+# text = & trobats que seran relhebants , serà balhat dilay de oeytene au prebengut per aquets probar ,
 1	&	_	CCONJ	_	_	8	cc	_	_
 2	trobats	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	_
 3	que	_	SCONJ	_	_	5	mark	_	_
@@ -57439,7 +57522,7 @@
 27	.	_	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 1564_Stil_1_32_43_1_1
-# text = LOS President & Conselheês de ladiita Crampe serán tienguts far residence en la present villa , per vacar a- -los affaires occurrens en ladiita Crampe , & vacqueran diligentement à d' aquetz , senhs entende a- -los affaires de la Crampe Ciuile de- -lodit Confelh , ny entrar en la iudicature dequetz , autrement que per lò For & Ordonnanças Realles , & Declarations iuùs so feytes ,
+# text = LOS President & Conselheês de ladiita Crampe serán tienguts far residence en la present villa , per vacar aux affaires occurrens en ladiita Crampe , & vacqueran diligentement à d' aquetz , senhs entende aux affaires de la Crampe Ciuile deudit Confelh , ny entrar en la iudicature dequetz , autrement que per lò For & Ordonnanças Realles , & Declarations iuùs so feytes ,
 1	LOS	_	DET	_	_	2	det	_	_
 2	President	_	NOUN	_	_	9	nsubj	_	_
 3	&	_	CCONJ	_	_	4	cc	_	_
@@ -57823,6 +57906,7 @@
 221	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1564_Stil_1_33_1_1_1
+# text = CHASCVNE SEMPMANE SERA tiengude la grande Audience de matin ló iorn de Dimerxs accoustumat , en laquoal asisteran touts los Conselheês de la Crampe Ciuile qui serán en la Villa , & per ló meinxs serán en nombre de cinq per y tractar & deffinir suùs los champs las causas qui aduiseran estar boeytades .
 1	CHASCVNE	_	DET	_	_	2	det	_	_
 2	SEMPMANE	_	NOUN	_	_	4	obl	_	_
 3	SERA	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	4	aux:pass	_	_
@@ -58201,7 +58285,7 @@
 37	,	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_33_3_1_2
-# text = losquoals los Aduocats seran tenguts anar veder a- -lo Greffe ló medixs iorn , & aquets conferir , corrigir & verifficar , & à faute de corrigir los pleiteyats suùs lò registre , où los balhar per eseriut , seran condamnats à vne liure morlane .
+# text = losquoals los Aduocats seran tenguts anar veder au Greffe ló medixs iorn , & aquets conferir , corrigir & verifficar , & à faute de corrigir los pleiteyats suùs lò registre , où los balhar per eseriut , seran condamnats à vne liure morlane .
 1	losquoals	_	DET	_	PronType=Rel	3	det	_	_
 2	los	_	DET	_	_	3	det	_	_
 3	Aduocats	_	NOUN	_	_	5	nsubj	_	_
@@ -58251,6 +58335,7 @@
 46	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1564_Stil_1_33_4_1_1
+# text = L' AVDIENCE ordinary será tengude lô iorn aprés seguent per tres deusdiits Conselheès plus anticquz praticiens stilats , & no sera mudade a autre iorn .
 1	L'	_	DET	_	_	2	det	_	_
 2	AVDIENCE	_	NOUN	_	_	5	nsubj	_	_
 3	ordinary	_	ADJ	_	_	2	amod	_	_
@@ -58362,6 +58447,7 @@
 35	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 1564_Stil_1_33_7_1_1
+# text = APPVNTAMENS ordinaris qui se balhen suûs las supplications per comparir en iudjament , porteran assignation de tres iorns aprez l' inthimation .
 1	APPVNTAMENS	_	NOUN	_	_	14	nsubj	_	_
 2	ordinaris	_	ADJ	_	_	1	amod	_	_
 3	qui	_	PRON	_	PronType=Rel	5	nsubj	_	_
@@ -58386,7 +58472,7 @@
 22	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 1564_Stil_1_33_8_1_1
-# text = LAS supplications no seran enregistrades , qu' a- -lo prealable la partida supplicante no aye obtengut & feyt inthimar , & rapportat appuntament de satisfasse , loquoal será autreyat per ló Notary a- -lo peê de la prumere supplication en la forma accoustumade , encoeres que lò supplicat sie estat apprehendut en personna ,
+# text = LAS supplications no seran enregistrades , qu' au prealable la partida supplicante no aye obtengut & feyt inthimar , & rapportat appuntament de satisfasse , loquoal será autreyat per ló Notary au peê de la prumere supplication en la forma accoustumade , encoeres que lò supplicat sie estat apprehendut en personna ,
 1	LAS	_	DET	_	_	2	det	_	_
 2	supplications	_	NOUN	_	_	5	nsubj	_	_
 3	no	_	ADV	_	Polarity=Neg	5	advmod	_	_
@@ -58632,7 +58718,7 @@
 15	,	_	PUNCT	_	_	12	punct	_	_
 16	ny	_	CCONJ	_	Polarity=Neg	21	cc	_	_
 17	a	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	21	aux	_	_
-18	d	_	ADP	_	_	20	case	_	SpaceAfter=Yes
+18	d	_	ADP	_	_	20	case	_	SpacesAfter=Yes
 19	acqueres	_	DET	_	_	20	det	_	_
 20	fijs	_	NOUN	_	_	21	nsubj	_	_
 21	recebude	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	advcl	_	_
@@ -58677,6 +58763,7 @@
 17	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 1564_Stil_1_34_3_1_1
+# text = SI l' appellant vol perseguir son appellation , inipetrera lettres , en vertut de lasquoalles fará balhar assignation de tres iorns à partida appellade per venir veder portar lò procez , & perseguir ladijta appellation .
 1	SI	_	SCONJ	_	_	4	mark	_	_
 2	l'	_	DET	_	_	3	det	_	_
 3	appellant	_	NOUN	_	_	4	nsubj	_	_
@@ -58974,6 +59061,7 @@
 55	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 1564_Stil_1_34_8_1_1
+# text = LO Libel balhat será appuntat que l' appellat responnera fents semblable dilay de quinzene , la resposte balhade , que l' appellant reppliquera fents oeytene ,
 1	LO	_	DET	_	_	2	det	_	_
 2	Libel	_	NOUN	_	_	5	nsubj	_	_
 3	balhat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
@@ -59002,6 +59090,7 @@
 26	,	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1564_Stil_1_34_8_1_2
+# text = & repplicat que aura , l' appellat duplicará per autre semblable dilay .
 1	&	_	CCONJ	_	_	8	cc	_	_
 2	repplicat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
 3	que	_	SCONJ	_	_	2	mark	_	_
@@ -59017,6 +59106,7 @@
 13	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_34_9_1_1
+# text = ET so feyt , que partidas produsesquen fents quinzene , & produsit que auran , lor será balhat dilay de oeytene precis & commun à chacun per impugnar & contrediser las productions feytes ,
 1	ET	_	CCONJ	_	_	18	cc	_	_
 2	so	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
 3	feyt	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	advcl	_	_
@@ -59053,6 +59143,7 @@
 34	,	_	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 1564_Stil_1_34_9_1_2
+# text = loquoal dilay no será balhat si no y hà productions ,
 1	loquoal	_	DET	_	_	2	det	_	_
 2	dilay	_	NOUN	_	_	5	nsubj	_	_
 3	no	_	ADV	_	Polarity=Neg	5	advmod	_	_
@@ -59066,6 +59157,7 @@
 11	,	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1564_Stil_1_34_9_1_3
+# text = mes tal dilay passat , lò procez sera claudit à ordonnar per ló visitar si y hà locq deprobar ô où non .
 1	mes	_	CCONJ	_	_	9	cc	_	_
 2	tal	_	DET	_	_	3	det	_	_
 3	dilay	_	NOUN	_	_	4	nsubj	_	_
@@ -59186,7 +59278,7 @@
 19	.	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 1564_Stil_1_34_11_1_1
-# text = FEITE ladiita reffusion , será ordonnat partida responny a- -lodit Libel per autre quinzene precise , & à faute de so fár excluse , & appuntat partidas produsesquen comme dessus per quinzene ,
+# text = FEITE ladiita reffusion , será ordonnat partida responny audit Libel per autre quinzene precise , & à faute de so fár excluse , & appuntat partidas produsesquen comme dessus per quinzene ,
 1	FEITE	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	_
 2	ladiita	_	DET	_	_	3	det	_	_
 3	reffusion	_	NOUN	_	_	1	nsubj	_	_
@@ -59269,7 +59361,7 @@
 22	,	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_34_12_1_2
-# text = & será autreyat dilay precis de vn meês commun a- -los touts à daqueres fijs .
+# text = & será autreyat dilay precis de vn meês commun aux touts à daqueres fijs .
 1	&	_	CCONJ	_	_	3	cc	_	_
 2	será	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	_
 3	autreyat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -59456,7 +59548,7 @@
 9	,	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 1564_Stil_1_34_15_1_3
-# text = & es prohibit a touts Notaris de fár rapport d' augune Inqueste , que a- -lo prealable no sie deuers ló Greffe ,
+# text = & es prohibit a touts Notaris de fár rapport d' augune Inqueste , que au prealable no sie deuers ló Greffe ,
 1	&	_	CCONJ	_	_	3	cc	_	_
 2	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	_
 3	prohibit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -59799,6 +59891,7 @@
 34	.	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 1564_Stil_1_34_20_1_1
+# text = PER ló rapport de la Sentençia de desertation seran taxats quoatte soôs morlaâs ,
 1	PER	_	ADP	_	_	3	case	_	_
 2	ló	_	DET	_	_	3	det	_	_
 3	rapport	_	NOUN	_	_	10	obl	_	_
@@ -59815,6 +59908,7 @@
 14	,	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 1564_Stil_1_34_20_1_2
+# text = & ló Notary en prenera per tout salary , tant per diettes que publication cinq soôs miey morlaâs .
 1	&	_	CCONJ	_	_	5	cc	_	_
 2	ló	_	DET	_	_	3	det	_	_
 3	Notary	_	NOUN	_	_	5	nsubj	_	_
@@ -59836,6 +59930,7 @@
 19	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1564_Stil_1_34_21_1_1
+# text = SI l' appellat vol portar lò procez , & anticipar , impetrera lettres à daqueros fijs , & serà balhat assignation de tres iorns à l' appellant per perseguir l' appellation , & veder portar lò procez .
 1	SI	_	SCONJ	_	_	4	mark	_	_
 2	l'	_	DET	_	_	3	det	_	_
 3	appellat	_	NOUN	_	_	4	nsubj	_	_
@@ -59942,6 +60037,7 @@
 27	,	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_34_23_1_2
+# text = & los Notaris seran tenguts aqueres gouardar senhs los rompe , per sçaber si las assignations seran bien vengudes , suûs pena de sengles liures morlanes per chacune vegada qui faran ló contrary .
 1	&	_	CCONJ	_	_	5	cc	_	_
 2	los	_	DET	_	_	3	det	_	_
 3	Notaris	_	NOUN	_	_	5	nsubj	_	_
@@ -60529,7 +60625,7 @@
 53	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 1564_Stil_1_36_2_1_1
-# text = SI ló supplicat no compareixs , la causa no será enregistrade que a- -lo prealable partida supplicante no aye obtiengut inthimar & rapportar autre appuntament que partida satisfasse fents autre semblable dilay de tre iorns ,
+# text = SI ló supplicat no compareixs , la causa no será enregistrade que au prealable partida supplicante no aye obtiengut inthimar & rapportar autre appuntament que partida satisfasse fents autre semblable dilay de tre iorns ,
 1	SI	_	SCONJ	_	_	5	mark	_	_
 2	ló	_	DET	_	_	3	det	_	_
 3	supplicat	_	NOUN	_	_	5	nsubj	_	_
@@ -60585,6 +60681,7 @@
 13	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_36_3_1_1
+# text = SI partida supplicade no compareixs , lò procez será claus en drect , senhs autre recitation de causa .
 1	SI	_	SCONJ	_	_	5	mark	_	_
 2	partida	_	NOUN	_	_	5	nsubj	_	_
 3	supplicade	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
@@ -60643,7 +60740,7 @@
 16	,	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1564_Stil_1_36_4_1_3
-# text = & será tengut ló supplicat portar lò procez en son original , & ló doble de la Sentençia de laquoalle domande restitution a- -lo iorn de la comparition ,
+# text = & será tengut ló supplicat portar lò procez en son original , & ló doble de la Sentençia de laquoalle domande restitution au iorn de la comparition ,
 1	&	_	CCONJ	_	_	3	cc	_	_
 2	será	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	_
 3	tengut	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -60718,6 +60815,7 @@
 19	dessus	_	ADV	_	_	17	advmod	_	_
 
 # sent_id = 1564_Stil_1_36_6_1_1
+# text = TALS procez poeyran estar boeytats oeyt iorns aprés lodit appuntament en drect .
 1	TALS	_	DET	_	_	2	det	_	_
 2	procez	_	NOUN	_	_	3	nsubj	_	_
 3	poeyran	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
@@ -60785,6 +60883,7 @@
 49	,	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 1564_Stil_1_36_7_1_2
+# text = à laquoalle pena son desy & desia condamnats , los qui se trouberan haber feyt ló contrary .
 1	à	_	ADP	_	_	3	case	_	_
 2	laquoalle	_	DET	_	_	3	det	_	_
 3	pena	_	NOUN	_	_	8	obl	_	_
@@ -60889,7 +60988,7 @@
 22	,	_	PUNCT	_	_	20	punct	_	_
 
 # sent_id = 1564_Stil_1_36_9_1_2
-# text = & touts salaris recebuts tant de- -los rapports que autres per los Notaris & Aduocatz , seran renduts & restituits .
+# text = & touts salaris recebuts tant deus rapports que autres per los Notaris & Aduocatz , seran renduts & restituits .
 1	&	_	CCONJ	_	_	18	cc	_	_
 2	touts	_	DET	_	_	3	det	_	_
 3	salaris	_	NOUN	_	_	18	nsubj	_	_
@@ -61185,6 +61284,7 @@
 24	,	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 1564_Stil_1_36_13_1_2
+# text = & ló procez suûs tal reuisitte , se tractera & diffinira fents autre an aprez l' autre seguent , senhs esperance d' autre dilay :
 1	&	_	CCONJ	_	_	9	cc	_	_
 2	ló	_	DET	_	_	3	det	_	_
 3	procez	_	NOUN	_	_	9	nsubj	_	_
@@ -61238,7 +61338,7 @@
 23	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 1564_Stil_1_36_14_1_1
-# text = ET degun no será recebut à supplicar en reuisite de Sentençia interlocutory , ny de- -lo prumer cap de- -lo possessory , ny de recredence , ny aussi de la solette condamnation de despens de causa mendre en principal , de cent cinquoante soôs morlaâs , ny d' augune autre causa sommary où prouisionalle ,
+# text = ET degun no será recebut à supplicar en reuisite de Sentençia interlocutory , ny deu prumer cap deu possessory , ny de recredence , ny aussi de la solette condamnation de despens de causa mendre en principal , de cent cinquoante soôs morlaâs , ny d' augune autre causa sommary où prouisionalle ,
 1	ET	_	CCONJ	_	_	5	cc	_	_
 2	degun	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	_
 3	no	_	ADV	_	Polarity=Neg	5	advmod	_	_
@@ -61626,6 +61726,7 @@
 77	:	_	PUNCT	_	_	17	punct	_	_
 
 # sent_id = 1564_Stil_1_36_16_1_3
+# text = Cal tal es nostre plaisir .
 1	Cal	_	DET	_	_	2	det	_	_
 2	tal	_	NOUN	_	_	5	nsubj	_	_
 3	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	5	cop	_	_
@@ -61634,7 +61735,7 @@
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1564_Stil_1_36_16_1_4
-# text = Dades à Pau jus lò grand Saget de nostres armes mes , lò sieisiesme iorn de- -lo mes de Mars , mil cinq cens sixante tres ,
+# text = Dades à Pau jus lò grand Saget de nostres armes mes , lò sieisiesme iorn deu mes de Mars , mil cinq cens sixante tres ,
 1	Dades	_	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 2	à	_	ADP	_	_	3	case	_	_
 3	Pau	_	NOUN	_	_	1	obl	_	_
@@ -61731,7 +61832,7 @@
 17	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 1564_Stil_1_37_1_1_2
-# text = A nostres Amats & fidels , las gens de nostre Conseil a Pau , Presidents , Iudges de la Court de- -lo Seneschal , SALVT .
+# text = A nostres Amats & fidels , las gens de nostre Conseil a Pau , Presidents , Iudges de la Court deu Seneschal , SALVT .
 1	A	_	ADP	_	_	3	case	_	_
 2	nostres	_	DET	_	_	3	det	_	_
 3	Amats	_	NOUN	_	_	25	obl	_	_
@@ -62143,6 +62244,7 @@
 82	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1564_Stil_1_38_4_1_1
+# text = ITEM , aprez que seran assemblats , expediran las supplications qui seran bailhades , & aqueres expedides , vacqueran à boitar los procez .
 1	ITEM	_	ADV	_	_	8	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	aprez	_	ADV	_	ExtPos=SCONJ	6	mark	_	_
@@ -62718,6 +62820,7 @@
 44	.	_	PUNCT	_	_	16	punct	_	_
 
 # sent_id = 1564_Stil_1_38_11_1_1
+# text = ITEM , Et los qui seran assistens , audiran , & ab toute silency escouteran lo Rapportadour , senhs en res lo empechar , ny perturbar , entro aura feit sondit rapport , & per aprez , lo interrogueran , ainsi que los semblara , per meilhor entender la vertat , per aprez , plus facilement opinar .
 1	ITEM	_	ADV	_	_	9	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	Et	_	CCONJ	_	_	9	cc	_	_
@@ -63200,7 +63303,7 @@
 22	.	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 1564_Stil_1_38_17_1_1
-# text = ITEM , Ordonnam , que los Commissaris qui seran deputats en aquere , sie de- -lo Conseilh , ou de las autres Cours inferiores , no posquen audir sus vn feyt , que dets testimonis , & à câas fasen lo contrary , la deposition feyte per autres testimonis outre los dets , sera cassade ,
+# text = ITEM , Ordonnam , que los Commissaris qui seran deputats en aquere , sie deu Conseilh , ou de las autres Cours inferiores , no posquen audir sus vn feyt , que dets testimonis , & à câas fasen lo contrary , la deposition feyte per autres testimonis outre los dets , sera cassade ,
 1	ITEM	_	ADV	_	_	3	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	Ordonnam	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	0	root	_	_

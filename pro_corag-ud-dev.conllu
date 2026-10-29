@@ -4926,6 +4926,7 @@
 20	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_22_1_4
+# text = Car so es consumption de temps ,
 1	Car	_	CCONJ	_	_	4	cc	_	_
 2	so	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
 3	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	4	cop	_	_
@@ -4935,6 +4936,7 @@
 7	,	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1564_Stil_1_38_22_1_5
+# text = mes reserueran las raisons à diser quand viendra lor opiniō .
 1	mes	_	CCONJ	_	_	2	cc	_	_
 2	reserueran	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	las	_	DET	_	_	4	det	_	_
@@ -5786,6 +5788,7 @@
 71	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_32_1_1
+# text = ITEM , Volem & Ordonnam , que toutes sententias bailhades en nostre Cōseilh , seran executades nonobstant las appellations de Cour mayour .
 1	ITEM	_	ADV	_	_	3	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	Volem	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
@@ -6707,6 +6710,7 @@
 81	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_38_42_1_1
+# text = ITEM , Que toutes & chascunes las causas de nostres dits Conseilhées ordinaris , tant Ciuilles que Criminalles , personales que realles , possessoris ou petitoris , seran en prumere instancy tractades & diffinides en nostre Conseilh , sien losdits Conseilhées domandans ô deffendens en aqueres .
 1	ITEM	_	ADV	_	_	32	advmod	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	Que	_	SCONJ	_	_	32	mark	_	_
