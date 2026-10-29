@@ -3,19 +3,26 @@ UD_Old_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval and ear
 
 # Introduction
 
-In May 2026, CorAG corpus contains six medieval texts and a section of a sixteenth-century text: 
+In November 2026, CorAG corpus contains six medieval texts and one sixteenth-century text: 
 
 
-|Title                                         | Year      |Code            | Edition                | 
-| :-------------------------------------------:|:--------: |:-------------: | :---------------------:|
-| Coutumes et Privilèges de l’Entre-Deux-Mers  | 1214-1342 | 1214-1342_Deux |Lépicier 1861           | 
-| Coutume de Banières                          | 1251      | 1251_Bagn      |Maldonado 2022          | 
-| Coutume de Banières                          | 1260      | 1260_Bagn      |Maldonado 2022          | 
-| Charte des Boucheries d’Orthez               | 1270      | 1270_Orthez    |Glessgen 2022           | 
-| Charte d’Herrère                             | 1278      | 1278_Herr      |Glessgen (unpublished)  | 
-| Les Fors Anciens de Béarn                    | 1460      | 1460_Bearn     |Ourliac & Gilles 1990   |
-| Stil de la justicy (partial)                 | 1564      | 1564_Stil      |Rovier 1663             |
+| Source | Train (sent) | Train (tok) | Dev (sent) | Dev (tok) | Test (sent) | Test (tok) | Total (sent) | Total (tok) |
+|--------|--------------|-------------|------------|-----------|-------------|------------|--------------|-------------|
+| 1214-1342_Deux | 257 | 9,020 | 30 | 1,017 | 56 | 1,595 | 343 | 11,632 |
+| 1251_Bagn | 58 | 2,317 | 8 | 270 | 12 | 435 | 78 | 3,022 |
+| 1260_Bagn | 25 | 1,217 | 4 | 161 | 4 | 282 | 33 | 1,660 |
+| 1270_Orthez | 26 | 976 | 3 | 135 | 5 | 229 | 34 | 1,340 |
+| 1278_Herr | 39 | 1,337 | 7 | 182 | 7 | 263 | 53 | 1,782 |
+| 1460_Bearn | 606 | 20,045 | 52 | 2,306 | 95 | 3,603 | 753 | 25,954 |
+| 1564_Stil | 600 | 21,419 | 41 | 2,400 | 60 | 3,789 | 701 | 27,608 |
+| Total | 1611 | 56,331 | 145 | 6,471 | 239 | 10,196 | 1995 | 72,998 |
 
+| Split | Sentences | Tokens | % (tokens) |
+|-------|-----------|--------|------------|
+| train | 1,611 | 56,331 | 77.2% |
+| dev | 145 | 6,471 | 8.9% |
+| test | 239 | 10,196 | 14.0% |
+| total | 1,995 | 72,998 | 100.0% |
 
 # Editions
 Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_, pp. 101-130.
