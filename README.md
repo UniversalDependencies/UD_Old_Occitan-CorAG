@@ -59,19 +59,21 @@ The latest versions of the electronic editions of _Coutume de Banières_ (1251 a
 | pro_corag-ud-train.conllu | 1,092 | 37,926 | 36,829 | 39,023 | 1,097 | 0 | 5,621 | 0 | 14 | 34.7 | 3 | 332 |
 | Total | 1,486 | 52,539 | 51,028 | 54,050 | 1,511 | 0 | — | — | — | 35.4 | — | — |
 
-Please note that CorAG treebank is still under development. A campain of revision and morphological annotation is underway and new material is being added to the collection. The structure of the treebank is therefore likely to change in subsequent releases. Please do not hesitate to contact us if you have any questions, suggestions or comments.
+Please note that CorAG treebank is still under development. A campaign of revision and morphological annotation is underway. The structure of the treebank is therefore likely to change in subsequent releases. Please do not hesitate to contact us if you have any questions, suggestions or comments.
 
 # Annotation
 
-The texts were digitized, segmented and subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel) parsers using bootstrapping methodology ([Peng et al 2022](https://hal.science/hal-03846834/document)) on [ArboratorGrew](https://arborator.grew.fr/#/) software.
+The texts were digitized and segmented manually into sentences and tokens. Corrections to the digitized original are signalled in the MISC column (original=).
+
+The corpus was subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel) parsers using bootstrapping methodology ([Peng et al 2022](https://hal.science/hal-03846834/document)) on [ArboratorGrew](https://arborator.grew.fr/#/) software (see Romanova et al 2025).
 
 The texts are annotated in PoS and syntactic functions (Universal Dependencies), following, wherever possible, the guidelines for Modern Occitan ([Miletić et al 2020](https://hal.science/hal-04925754v1)).
 
-In addition, for the 2.18 release, verbs and auxiliaries have been annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Congujated forms are annotated in Person (1,2,3) and Number (Sing, Plur). Annotation in Mood and Tense is ongoing. Participles are annotated in Tense (Past, Pres, Fut), Gender (Masc, Fem) and Number (Sing, Plur). The annotation in features follows the form of the the token (i.e., forms with no agreement in Gender or Number were annotated as masculine singular). 
+In addition, starting with the 2.18 release, verbs and auxiliaries have been annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Conjugated forms are annotated in Person (1,2,3) and Number (Sing, Plur). Participles are annotated in Tense (Past, Pres, Fut), Gender (Masc, Fem) and Number (Sing, Plur). The annotation in features follows the form of the the token (i.e., forms with no agreement in Gender or Number were annotated as masculine singular). 
 
 Please note that participles without dependents are annotated as adjectives but are also provided with morphological features of participles (VerbForm, Tense, Gender, Number).
 
-Pronouns are annotated in type (PronType: Prs, Dem, Ind, Rel). Reflexive pronouns are annotated as Prs with an additional Poss=Yes feature. Possessive pronouns have the feature Poss=Yes.
+Pronouns are annotated in type (PronType: Prs, Dem, Ind, Rel). Reflexive pronouns are annotated as Prs with an additional Reflexive=Yes feature. Possessive pronouns have the feature Poss=Yes.
 
 Personal pronouns are annotated in Person (1,2,3) and, wherever possible, Number (Sing, Plur), Gender (Masc, Fem, Neut). Neut is used for the pronoun "o".
 
@@ -86,12 +88,13 @@ Tokens with negative polarity (that belong to ADJ, ADP, ADV, CCONJ, DET and PRON
 # Acknowledgments
 The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior membership project](https://www.iufrance.fr/les-membres-de-liuf/membre/2346-pierre-larrivee.html) with the Institut Universitaire de France.
 
-Manual annotation was performed by [Barbara Francioni](https://cv.hal.science/barbara-francioni) with the help from [Natasha Romanova](https://cv.hal.science/natasha-romanova). Technical support by [Rayan Ziane](https://cv.hal.science/rayan-ziane) and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by Natasha Romanova.
+Manual correction of the automatic annotation of 1214-1342_Deux, 1251_Bagn, 1260_Bagn, 1270_Orthez, 1278_Herr and 1460_Bearn was performed by [Barbara Francioni](https://cv.hal.science/barbara-francioni) with the help from [Natasha Romanova](https://cv.hal.science/natasha-romanova) and [Rayan Ziane](https://cv.hal.science/rayan-ziane). Correction of 1564_Stil was done by [Caroline Calvet](https://cv.hal.science/caroline-calvet) and [Barbara Francioni](https://cv.hal.science/barbara-francioni) with the help from [Natasha Romanova](https://cv.hal.science/natasha-romanova).
 
-We thank Professor Martin Glessgen and his team at the University of Zurich (authors of the online resource [Documents linguistiques galloromans](https://gallrom.linguistik.uzh.ch/#/) for provinding us with their editions of the thirteenth-century texts included in the corpus.
+Technical support by [Rayan Ziane](https://cv.hal.science/rayan-ziane) and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by [Natasha Romanova](https://cv.hal.science/natasha-romanova).
+
+We thank Professor Martin Glessgen and his team at the University of Zurich (authors of the online resource [Documents linguistiques galloromans](https://gallrom.linguistik.uzh.ch/#/) for providing us with their editions of the thirteenth-century texts included in the corpus.
 
 The version of the treebank from November 2025 can also be consulted and queried via the CRISCO Lab (University of Caen) [TXM portal](https://txm-crisco.huma-num.fr/txm/) where 1240-1314_Deux and 1460_Bearn are also available consultation as a digital edition (Larrivée P. & Francioni B. (ed.) 2026. CorAG Corpus, v. 1.2 (EA 4255). Caen: CRISCO).
-
 
 We thank the members of the Modern Occitan [Tolosa Treebank](https://github.com/UniversalDependencies/UD_Occitan-TTB) for their help and advice in the early stages of the annotation process.
 
