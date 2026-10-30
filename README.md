@@ -65,7 +65,7 @@ Please note that CorAG treebank is still under development. A campaign of revisi
 
 The texts were digitized and segmented manually into sentences and tokens. Corrections to the digitized original are signalled in the MISC column (original=).
 
-The corpus was subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel) parsers using bootstrapping methodology ([Peng et al 2022](https://hal.science/hal-03846834/document)) on [ArboratorGrew](https://arborator.grew.fr/#/) software (see Romanova et al 2025).
+The corpus was subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel) parsers using bootstrapping methodology ([Peng et al 2022](https://hal.science/hal-03846834/document)) on [ArboratorGrew](https://arborator.grew.fr/#/) software (see [Romanova et al 2025](https://lift2-2025.sciencesconf.org/667164)).
 
 The texts are annotated in PoS and syntactic functions (Universal Dependencies), following, wherever possible, the guidelines for Modern Occitan ([Miletić et al 2020](https://hal.science/hal-04925754v1)).
 
@@ -86,7 +86,7 @@ Relative pronouns have no further morphological annotation at present.
 Tokens with negative polarity (that belong to ADJ, ADP, ADV, CCONJ, DET and PRON categories) have Polarity=Neg feature.
 
 # Acknowledgments
-The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior membership project](https://www.iufrance.fr/les-membres-de-liuf/membre/2346-pierre-larrivee.html) with the Institut Universitaire de France.
+The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior membership project](https://www.iufrance.fr/les-membres-de-liuf/membre/2346-pierre-larrivee.html) with the Institut Universitaire de France (2022-2027).
 
 Manual correction of the automatic annotation of 1214-1342_Deux, 1251_Bagn, 1260_Bagn, 1270_Orthez, 1278_Herr and 1460_Bearn was performed by [Barbara Francioni](https://cv.hal.science/barbara-francioni) with the help from [Natasha Romanova](https://cv.hal.science/natasha-romanova) and [Rayan Ziane](https://cv.hal.science/rayan-ziane). Correction of 1564_Stil was done by [Caroline Calvet](https://cv.hal.science/caroline-calvet) and [Barbara Francioni](https://cv.hal.science/barbara-francioni) with the help from [Natasha Romanova](https://cv.hal.science/natasha-romanova).
 
@@ -121,12 +121,12 @@ License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
 Genre: legal
-Lemmas: automatic
+Lemmas: not available
 UPOS: manual native
 XPOS: not available
-Features: not available
+Features: manual native
 Relations: manual native
-Contributors: Francioni, Barbara; Romanova, Natalia; Ziane, Rayan; Daoudi, Khensa; Larrivée, Pierre
+Contributors: Francioni, Barbara; Romanova, Natasha; Ziane, Rayan; Calvet, Caroline; Daoudi, Khensa; Larrivée, Pierre
 Contributing: here
 Contact: natalia.romanova@unicaen.fr
 ===============================================================================
