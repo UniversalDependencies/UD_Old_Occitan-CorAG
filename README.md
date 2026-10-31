@@ -24,6 +24,8 @@ In November 2026, CorAG corpus contains six medieval texts and one sixteenth-cen
 | test | 239 | 10,196 | 14.0% |
 | total | 1,995 | 72,998 | 100.0% |
 
+The split was created using scripts that can be consulted [here](https://github.com/Corpus-Diachroniques-CRISCO/CorAG_tools).
+
 # Editions
 Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_, pp. 101-130.
 
