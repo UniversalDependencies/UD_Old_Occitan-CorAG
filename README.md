@@ -39,18 +39,7 @@ Rovier, Jacques, 1663. _Stil de la justicy deu pais de Bearn_. Orthez.
 
 The latest versions of the electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen and his team (University of Zurich) in 2023. 
 
-# Corpus stats
 
-| File | Sentences | Tokens (synt) | Tokens (surf) | Tokens+MWT | MWT | Empty | Forms (uniq) | Lemmas (uniq) | UPOS | Avg sent len | Min | Max |
-|------|-----------|---------------|---------------|------------|-----|-------|--------------|---------------|------|--------------|-----|-----|
-| 1214-1342_Deux | 343 | 11,632 | 11,333 | 11,931 | 299 | 0 | 2,314 | 0 | 14 | 33.9 | 3 | 178 |
-| 1251_Bagn | 78 | 3,022 | 2,810 | 3,234 | 212 | 0 | 657 | 0 | 14 | 38.7 | 5 | 147 |
-| 1260_Bagn | 33 | 1,660 | 1,557 | 1,763 | 103 | 0 | 514 | 0 | 14 | 50.3 | 11 | 250 |
-| 1270_Orthez | 34 | 1,340 | 1,303 | 1,377 | 37 | 0 | 395 | 0 | 14 | 39.4 | 8 | 169 |
-| 1278_Herr | 53 | 1,782 | 1,726 | 1,838 | 56 | 0 | 518 | 0 | 13 | 33.6 | 10 | 130 |
-| 1460_Bearn | 753 | 25,954 | 25,357 | 26,551 | 597 | 0 | 2,946 | 0 | 13 | 34.5 | 3 | 332 |
-| 1564_Stil | 192 | 7,149 | 6,942 | 7,356 | 207 | 0 | 1,536 | 0 | 13 | 37.2 | 6 | 187 |
-| Total | 1,486 | 52,539 | 51,028 | 54,050 | 1,511 | 0 | — | — | — | 35.4 | — | — |
 
 # Train/Dev/Test split
 
