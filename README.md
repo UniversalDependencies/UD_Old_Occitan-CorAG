@@ -117,7 +117,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Francioni, Barbara; Romanova, Natalia; Ziane, Rayan; Calvet, Caroline; Daoudi, Khensa; Larrivée, Pierre
+Contributors: Francioni, Barbara; Romanova, Natasha; Ziane, Rayan; Calvet, Caroline; Daoudi, Khensa; Larrivée, Pierre
 Contributing: here
 Contact: natalia.romanova@unicaen.fr
 ===============================================================================
