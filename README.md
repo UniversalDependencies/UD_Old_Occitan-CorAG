@@ -3,7 +3,7 @@ UD_Old_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval and ear
 
 # Introduction
 
-In November 2026, CorAG corpus contains six medieval texts and one sixteenth-century text: 
+In November 2026, CorAG corpus contains six medieval texts and one sixteenth-century text:
 
 
 | Source | Train (sent) | Train (tok) | Dev (sent) | Dev (tok) | Test (sent) | Test (tok) | Total (sent) | Total (tok) |
@@ -37,7 +37,7 @@ Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Édi
 
 Rovier, Jacques, 1663. _Stil de la justicy deu pais de Bearn_. Orthez.
 
-The latest versions of the electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen and his team (University of Zurich) in 2023. 
+The latest versions of the electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen and his team (University of Zurich) in 2023.
 
 
 
@@ -60,7 +60,7 @@ The corpus was subsequently automatically annotated with [HOPS](https://github.c
 
 The texts are annotated in PoS and syntactic functions (Universal Dependencies), following, wherever possible, the guidelines for Modern Occitan ([Miletić et al 2020](https://hal.science/hal-04925754v1)).
 
-In addition, starting with the 2.18 release, verbs and auxiliaries have been annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Conjugated forms are annotated in Person (1,2,3) and Number (Sing, Plur). Participles are annotated in Tense (Past, Pres, Fut), Gender (Masc, Fem) and Number (Sing, Plur). The annotation in features follows the form of the the token (i.e., forms with no agreement in Gender or Number were annotated as masculine singular). 
+In addition, starting with the 2.18 release, verbs and auxiliaries have been annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Conjugated forms are annotated in Person (1,2,3) and Number (Sing, Plur). Participles are annotated in Tense (Past, Pres, Fut), Gender (Masc, Fem) and Number (Sing, Plur). The annotation in features follows the form of the the token (i.e., forms with no agreement in Gender or Number were annotated as masculine singular).
 
 Please note that participles without dependents are annotated as adjectives but are also provided with morphological features of participles (VerbForm, Tense, Gender, Number).
 
@@ -68,7 +68,7 @@ Pronouns are annotated in type (PronType: Prs, Dem, Ind, Rel). Reflexive pronoun
 
 Personal pronouns are annotated in Person (1,2,3) and, wherever possible, Number (Sing, Plur), Gender (Masc, Fem, Neut). Neut is used for the pronoun "o".
 
-Demonstrative pronouns are annotated in Number (Sing, Plur) and Gender (Masc, Fem, Neut). Neut is used for pronouns ço (so), ac (ag) and aquet. 
+Demonstrative pronouns are annotated in Number (Sing, Plur) and Gender (Masc, Fem, Neut). Neut is used for pronouns ço (so), ac (ag) and aquet.
 
 Indefinite pronouns are annotated, wherever possible, in Number (Sing, Plur) and Gender (Masc, Fem).
 
@@ -117,7 +117,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Francioni, Barbara; Romanova, Natasha; Ziane, Rayan; Calvet, Caroline; Daoudi, Khensa; Larrivée, Pierre
+Contributors: Francioni, Barbara; Romanova, Natalia; Ziane, Rayan; Calvet, Caroline; Daoudi, Khensa; Larrivée, Pierre
 Contributing: here
 Contact: natalia.romanova@unicaen.fr
 ===============================================================================
